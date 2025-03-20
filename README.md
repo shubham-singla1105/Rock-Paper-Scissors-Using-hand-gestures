@@ -16,10 +16,10 @@ Run the game: python main.py
 I’ve also published an eBook covering this project in detail! If you're interested, check it out here:
 👉 Rock-Paper-Scissors Using Hand Gestures - https://amzn.in/d/2JKGsws
 
-🛠️ Technologies Used
+# 🛠️ Technologies Used
 Python
 OpenCV
 MediaPipe
 Machine Learning
-📜 License
+# 📜 License
 This project is open-source under the MIT License. Feel free to modify and enhance it!

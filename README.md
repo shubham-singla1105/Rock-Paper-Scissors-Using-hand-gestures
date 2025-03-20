@@ -9,7 +9,7 @@ Uses OpenCV and Machine Learning for detection
 No need for physical buttons—just your hands!
 # 📥 Installation & Setup
 Clone this repository:
-git clone https://github.com/yourusername/rock-paper-scissors-gesture.git
+git clone https://github.com/shubham-singla1105/Rock-Paper-Scissors-Using-hand-gestures.git
 cd rock-paper-scissors
 Run the game: python main.py
 # 📖 eBook on Amazon
